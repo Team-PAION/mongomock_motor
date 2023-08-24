@@ -1,4 +1,4 @@
-mongomock~=4.1.2
+git+https://github.com/Team-PAION/mongomock.git@develop#egg=mongomock
 
 # Development requirements
 anyio~=3.5.0
